@@ -29,6 +29,26 @@ This companion site supports *Digital Forensics Basics: A Step-by-Step Guide for
 | Chapter 13 | Steganography | [Download PPTX](PPTs/Ch13_Steganography.pptx) |
 | Chapter 14 | Conclusion and Next Steps | No separate presentation at this time |
 
+## Lab Files and Downloads
+
+Use this index to locate files that the hands-on chapters ask you to download. The book remains the authoritative source for the procedure, context, and interpretation of each file. Download only the item required for the activity you are completing, save it in the location specified by the chapter, and record its source and any verification result in your evidence notes.
+
+| Book chapter | Required or practice material | Download |
+|---|---|---|
+| Chapter 4 | Practice JPEG image for the Linux download and viewing exercise | [Download `DulILzQXcAAkFMV.jpg`](https://pbs.twimg.com/media/DulILzQXcAAkFMV.jpg) |
+| Chapters 6 and 7 | USB forensic-image archive used for Autopsy and The Sleuth Kit activities | [Download `120M.7z`](https://github.com/frankwxu/digital-forensics-lab/raw/main/Basic_Computer_Skills_for_Forensics/file_carving/usb_image/120M.7z) |
+| Chapter 9 | Regular-expression exercise files | [Download `regex.zip`](https://raw.githubusercontent.com/frankwxu/digital-forensics-lab/main/Basic_Computer_Skills_for_Forensics/regex/regex.zip) |
+| Chapter 9 | Packet-capture sample for evidence-search practice | [Download `vm_to_ub_traffic.log`](https://raw.githubusercontent.com/frankwxu/digital-forensics-lab/main/Basic_Computer_Skills_for_Forensics/file_carving/File_Carving_Manually/vm_to_ub_traffic.log) |
+| Chapter 9 | NTFS image used in the chapter's later exercise | [Download `NTFS.zip`](https://raw.githubusercontent.com/frankwxu/digital-forensics-lab/main/Basic_Computer_Skills_for_Forensics/regex/NTFS.zip), then extract `NTFS.001`. |
+| Chapter 10 | JPEG used in the introductory download and hashing example | [Download `J_ub_law.jpg`](https://raw.githubusercontent.com/frankwxu/digital-forensics-lab/main/Basic_Computer_Skills_for_Forensics/file_carving/usb_file/J_ub_law.jpg) |
+| Chapter 10 | Document used for manual file-carving practice | [Download `File_carving.docx`](https://raw.githubusercontent.com/frankwxu/digital-forensics-lab/main/Basic_Computer_Skills_for_Forensics/file_carving/File_Carving_Manually/File_carving.docx) |
+| Chapter 10 | USB forensic-image archive used for carving exercises | [Download `120M.7z`](https://github.com/frankwxu/digital-forensics-lab/raw/main/Basic_Computer_Skills_for_Forensics/file_carving/usb_image/120M.7z) |
+| Chapter 11 | HTTP/TCP packet-capture sample | [Download `basic.log`](https://raw.githubusercontent.com/frankwxu/digital-forensics-lab/main/Illegal_Possession_Images/lab_files/traffic/basic.log) |
+| Chapter 12 | Packet-capture sample containing an image transfer | [Download `image2.log`](https://raw.githubusercontent.com/frankwxu/digital-forensics-lab/main/Illegal_Possession_Images/lab_files/traffic/image2.log) |
+| Chapter 13 | BMP carrier image for the steganography exercise | [Download `_tower_original_image_for_lab.bmp`](https://raw.githubusercontent.com/frankwxu/digital-forensics-lab/main/Basic_Computer_Skills_for_Forensics/steganography/_tower_original_image_for_lab.bmp) |
+
+Chapters 1--3, 5, 8, and 14 do not currently specify a separate downloadable lab artifact in the textbook. Chapter 8 instead uses a USB device and acquisition workflow; use only media you are authorized to handle.
+
 ## Supplemental Presentation
 
 The following presentation supports learners who want additional Windows command-line practice. It is supplementary and is not assigned to a single chapter.
