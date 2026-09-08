@@ -1,12 +1,18 @@
 # Digital Forensics Basics: A Step-by-Step Guide for Beginners — Companion Materials
 
-This companion site supports *Digital Forensics Basics: A Step-by-Step Guide for Beginners* with chapter-aligned presentations and practical guidance for using the book's laboratory activities. The presentations reinforce the concepts in the corresponding chapters; they do not replace the explanations, evidence notes, or exercises in the textbook.
-
-<a href="https://www.amazon.com/Digital-Forensics-Basics-Step-Step/dp/B0HHBW61TM">
-  <img src="https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T1/images/I/61rfwOdTaJL._SL1422_.jpg" alt="Cover of Digital Forensics Basics: A Step-by-Step Guide for Beginners" width="200">
-</a>
-
-[Get the book on Amazon](https://www.amazon.com/Digital-Forensics-Basics-Step-Step/dp/B0HHBW61TM).
+<table>
+  <tr>
+    <td width="170" valign="top">
+      <a href="https://www.amazon.com/Digital-Forensics-Basics-Step-Step/dp/B0HHBW61TM">
+        <img src="https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T1/images/I/61rfwOdTaJL._SL1422_.jpg" alt="Cover of Digital Forensics Basics: A Step-by-Step Guide for Beginners" width="150">
+      </a>
+    </td>
+    <td valign="top">
+      <p>This companion site supports <em>Digital Forensics Basics: A Step-by-Step Guide for Beginners</em> with chapter-aligned presentations and practical guidance for using the book's laboratory activities. The presentations reinforce the concepts in the corresponding chapters; they do not replace the explanations, evidence notes, or exercises in the textbook.</p>
+      <p><a href="https://www.amazon.com/Digital-Forensics-Basics-Step-Step/dp/B0HHBW61TM">Get the book on Amazon</a>.</p>
+    </td>
+  </tr>
+</table>
 
 ## Start Here
 
