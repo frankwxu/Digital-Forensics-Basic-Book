@@ -2,6 +2,12 @@
 
 This companion site supports *Digital Forensics Basics: A Step-by-Step Guide for Beginners* with chapter-aligned presentations and practical guidance for using the book's laboratory activities. The presentations reinforce the concepts in the corresponding chapters; they do not replace the explanations, evidence notes, or exercises in the textbook.
 
+<a href="https://www.amazon.com/Digital-Forensics-Basics-Step-Step/dp/B0HHBW61TM">
+  <img src="https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T1/images/I/61rfwOdTaJL._SL1422_.jpg" alt="Cover of Digital Forensics Basics: A Step-by-Step Guide for Beginners" width="200">
+</a>
+
+[Get the book on Amazon](https://www.amazon.com/Digital-Forensics-Basics-Step-Step/dp/B0HHBW61TM).
+
 ## Start Here
 
 1. Read the book's **Preface** and **How to Use This Book**.
@@ -12,40 +18,40 @@ This companion site supports *Digital Forensics Basics: A Step-by-Step Guide for
 
 ## Chapter Presentations
 
-| Book chapter | Topic | Companion presentation |
-|---|---|---|
-| Chapter 1 | Introduction to Digital Forensics | [Download PPTX](PPTs/Ch1_Introduction_to_Digital_Forensics.pptx) |
-| Chapter 2 | Number Systems for Digital Forensics | [Download PPTX](PPTs/Ch2_Number_Systems_for_Digital_Forensics.pptx) |
-| Chapter 3 | Computer Systems and Digital Evidence | [Download PPTX](PPTs/Ch3_Computer_Systems_and_Digital_Evidence.pptx) |
-| Chapter 4 | Linux for Digital Forensics | [Download PPTX](PPTs/Ch4_Linux_for_Digital_Forensics.pptx) |
-| Chapter 5 | Advanced Linux for Digital Forensics | [Download PPTX](PPTs/Ch5_Advanced_Linux_for_Digital_Forensics.pptx) |
-| Chapter 6 | USB Image Analysis with Autopsy | No separate presentation at this time |
-| Chapter 7 | The Sleuth Kit Tutorial | [Download PPTX](PPTs/Ch7_The_Sleuth_Kit_Tutorial.pptx) |
-| Chapter 8 | USB Image Acquisition | [Download PPTX](PPTs/Ch8_USB_Image_Acquisition.pptx) |
-| Chapter 9 | Digital Evidence Search | [Part 1: Pattern Matching](PPTs/Ch9_Part1_Evidence_Search_Pattern_Matching.pptx) · [Part 2: File Metadata](PPTs/Ch9_Part2_Evidence_Search_File_Metadata.pptx) · [Part 3: Advanced Search](PPTs/Ch9_Part3_Advanced_Evidence_Search.pptx) |
-| Chapter 10 | Data Carving and Recovery | [Download PPTX](PPTs/Ch10_Data_Carving_and_Recovery.pptx) |
-| Chapter 11 | Wireshark Text Extraction | [Download PPTX](PPTs/Ch11_Wireshark_Text_Extraction.pptx) |
-| Chapter 12 | Wireshark Image Extraction | [Download PPTX](PPTs/Ch12_Wireshark_Image_Extraction.pptx) |
-| Chapter 13 | Steganography | [Download PPTX](PPTs/Ch13_Steganography.pptx) |
-| Chapter 14 | Conclusion and Next Steps | No separate presentation at this time |
+| Book chapter | Topic                                 | Companion presentation                                                                                                                                                                                                                  |
+| ------------ | ------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Chapter 1    | Introduction to Digital Forensics     | [Download PPTX](PPTs/Ch1_Introduction_to_Digital_Forensics.pptx)                                                                                                                                                                        |
+| Chapter 2    | Number Systems for Digital Forensics  | [Download PPTX](PPTs/Ch2_Number_Systems_for_Digital_Forensics.pptx)                                                                                                                                                                     |
+| Chapter 3    | Computer Systems and Digital Evidence | [Download PPTX](PPTs/Ch3_Computer_Systems_and_Digital_Evidence.pptx)                                                                                                                                                                    |
+| Chapter 4    | Linux for Digital Forensics           | [Download PPTX](PPTs/Ch4_Linux_for_Digital_Forensics.pptx)                                                                                                                                                                              |
+| Chapter 5    | Advanced Linux for Digital Forensics  | [Download PPTX](PPTs/Ch5_Advanced_Linux_for_Digital_Forensics.pptx)                                                                                                                                                                     |
+| Chapter 6    | USB Image Analysis with Autopsy       | No separate presentation at this time                                                                                                                                                                                                   |
+| Chapter 7    | The Sleuth Kit Tutorial               | [Download PPTX](PPTs/Ch7_The_Sleuth_Kit_Tutorial.pptx)                                                                                                                                                                                  |
+| Chapter 8    | USB Image Acquisition                 | [Download PPTX](PPTs/Ch8_USB_Image_Acquisition.pptx)                                                                                                                                                                                    |
+| Chapter 9    | Digital Evidence Search               | [Part 1: Pattern Matching](PPTs/Ch9_Part1_Evidence_Search_Pattern_Matching.pptx) · [Part 2: File Metadata](PPTs/Ch9_Part2_Evidence_Search_File_Metadata.pptx) · [Part 3: Advanced Search](PPTs/Ch9_Part3_Advanced_Evidence_Search.pptx) |
+| Chapter 10   | Data Carving and Recovery             | [Download PPTX](PPTs/Ch10_Data_Carving_and_Recovery.pptx)                                                                                                                                                                               |
+| Chapter 11   | Wireshark Text Extraction             | [Download PPTX](PPTs/Ch11_Wireshark_Text_Extraction.pptx)                                                                                                                                                                               |
+| Chapter 12   | Wireshark Image Extraction            | [Download PPTX](PPTs/Ch12_Wireshark_Image_Extraction.pptx)                                                                                                                                                                              |
+| Chapter 13   | Steganography                         | [Download PPTX](PPTs/Ch13_Steganography.pptx)                                                                                                                                                                                           |
+| Chapter 14   | Conclusion and Next Steps             | No separate presentation at this time                                                                                                                                                                                                   |
 
 ## Lab Files and Downloads
 
 Use this index to locate files that the hands-on chapters ask you to download. The book remains the authoritative source for the procedure, context, and interpretation of each file. Download only the item required for the activity you are completing, save it in the location specified by the chapter, and record its source and any verification result in your evidence notes.
 
-| Book chapter | Required or practice material | Download |
-|---|---|---|
-| Chapter 4 | Practice JPEG image for the Linux download and viewing exercise | [Download `DulILzQXcAAkFMV.jpg`](https://pbs.twimg.com/media/DulILzQXcAAkFMV.jpg) |
-| Chapters 6 and 7 | USB forensic-image archive used for Autopsy and The Sleuth Kit activities | [Download `120M.7z`](https://github.com/frankwxu/digital-forensics-lab/raw/main/Basic_Computer_Skills_for_Forensics/file_carving/usb_image/120M.7z) |
-| Chapter 9 | Regular-expression exercise files | [Download `regex.zip`](https://raw.githubusercontent.com/frankwxu/digital-forensics-lab/main/Basic_Computer_Skills_for_Forensics/regex/regex.zip) |
-| Chapter 9 | Packet-capture sample for evidence-search practice | [Download `vm_to_ub_traffic.log`](https://raw.githubusercontent.com/frankwxu/digital-forensics-lab/main/Basic_Computer_Skills_for_Forensics/file_carving/File_Carving_Manually/vm_to_ub_traffic.log) |
-| Chapter 9 | NTFS image used in the chapter's later exercise | [Download `NTFS.zip`](https://raw.githubusercontent.com/frankwxu/digital-forensics-lab/main/Basic_Computer_Skills_for_Forensics/regex/NTFS.zip), then extract `NTFS.001`. |
-| Chapter 10 | JPEG used in the introductory download and hashing example | [Download `J_ub_law.jpg`](https://raw.githubusercontent.com/frankwxu/digital-forensics-lab/main/Basic_Computer_Skills_for_Forensics/file_carving/usb_file/J_ub_law.jpg) |
-| Chapter 10 | Document used for manual file-carving practice | [Download `File_carving.docx`](https://raw.githubusercontent.com/frankwxu/digital-forensics-lab/main/Basic_Computer_Skills_for_Forensics/file_carving/File_Carving_Manually/File_carving.docx) |
-| Chapter 10 | USB forensic-image archive used for carving exercises | [Download `120M.7z`](https://github.com/frankwxu/digital-forensics-lab/raw/main/Basic_Computer_Skills_for_Forensics/file_carving/usb_image/120M.7z) |
-| Chapter 11 | HTTP/TCP packet-capture sample | [Download `basic.log`](https://raw.githubusercontent.com/frankwxu/digital-forensics-lab/main/Illegal_Possession_Images/lab_files/traffic/basic.log) |
-| Chapter 12 | Packet-capture sample containing an image transfer | [Download `image2.log`](https://raw.githubusercontent.com/frankwxu/digital-forensics-lab/main/Illegal_Possession_Images/lab_files/traffic/image2.log) |
-| Chapter 13 | BMP carrier image for the steganography exercise | [Download `_tower_original_image_for_lab.bmp`](https://raw.githubusercontent.com/frankwxu/digital-forensics-lab/main/Basic_Computer_Skills_for_Forensics/steganography/_tower_original_image_for_lab.bmp) |
+| Book chapter     | Required or practice material                                             | Download                                                                                                                                                                                                  |
+| ---------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Chapter 4        | Practice JPEG image for the Linux download and viewing exercise           | [Download `DulILzQXcAAkFMV.jpg`](https://pbs.twimg.com/media/DulILzQXcAAkFMV.jpg)                                                                                                                         |
+| Chapters 6 and 7 | USB forensic-image archive used for Autopsy and The Sleuth Kit activities | [Download `120M.7z`](https://github.com/frankwxu/digital-forensics-lab/raw/main/Basic_Computer_Skills_for_Forensics/file_carving/usb_image/120M.7z)                                                       |
+| Chapter 9        | Regular-expression exercise files                                         | [Download `regex.zip`](https://raw.githubusercontent.com/frankwxu/digital-forensics-lab/main/Basic_Computer_Skills_for_Forensics/regex/regex.zip)                                                         |
+| Chapter 9        | Packet-capture sample for evidence-search practice                        | [Download `vm_to_ub_traffic.log`](https://raw.githubusercontent.com/frankwxu/digital-forensics-lab/main/Basic_Computer_Skills_for_Forensics/file_carving/File_Carving_Manually/vm_to_ub_traffic.log)      |
+| Chapter 9        | NTFS image used in the chapter's later exercise                           | [Download `NTFS.zip`](https://raw.githubusercontent.com/frankwxu/digital-forensics-lab/main/Basic_Computer_Skills_for_Forensics/regex/NTFS.zip), then extract `NTFS.001`.                                 |
+| Chapter 10       | JPEG used in the introductory download and hashing example                | [Download `J_ub_law.jpg`](https://raw.githubusercontent.com/frankwxu/digital-forensics-lab/main/Basic_Computer_Skills_for_Forensics/file_carving/usb_file/J_ub_law.jpg)                                   |
+| Chapter 10       | Document used for manual file-carving practice                            | [Download `File_carving.docx`](https://raw.githubusercontent.com/frankwxu/digital-forensics-lab/main/Basic_Computer_Skills_for_Forensics/file_carving/File_Carving_Manually/File_carving.docx)            |
+| Chapter 10       | USB forensic-image archive used for carving exercises                     | [Download `120M.7z`](https://github.com/frankwxu/digital-forensics-lab/raw/main/Basic_Computer_Skills_for_Forensics/file_carving/usb_image/120M.7z)                                                       |
+| Chapter 11       | HTTP/TCP packet-capture sample                                            | [Download `basic.log`](https://raw.githubusercontent.com/frankwxu/digital-forensics-lab/main/Illegal_Possession_Images/lab_files/traffic/basic.log)                                                       |
+| Chapter 12       | Packet-capture sample containing an image transfer                        | [Download `image2.log`](https://raw.githubusercontent.com/frankwxu/digital-forensics-lab/main/Illegal_Possession_Images/lab_files/traffic/image2.log)                                                     |
+| Chapter 13       | BMP carrier image for the steganography exercise                          | [Download `_tower_original_image_for_lab.bmp`](https://raw.githubusercontent.com/frankwxu/digital-forensics-lab/main/Basic_Computer_Skills_for_Forensics/steganography/_tower_original_image_for_lab.bmp) |
 
 Chapters 1--3, 5, 8, and 14 do not currently specify a separate downloadable lab artifact in the textbook. Chapter 8 instead uses a USB device and acquisition workflow; use only media you are authorized to handle.
 
