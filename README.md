@@ -10,6 +10,7 @@
     <td valign="top">
       <p>This companion site supports <em>Digital Forensics Basics: A Step-by-Step Guide for Beginners</em> with chapter-aligned presentations and practical guidance for using the book's laboratory activities. The presentations reinforce the concepts in the corresponding chapters; they do not replace the explanations, evidence notes, or exercises in the textbook.</p>
       <p><a href="https://www.amazon.com/Digital-Forensics-Basics-Step-Step/dp/B0HHBW61TM">Get the book on Amazon</a>.</p>
+      <p><a href="Digital-Forensics-Basics-Preview-First-100-Pages.pdf">Read the first 100 pages</a> (PDF, 2.52 MB; includes front matter).</p>
     </td>
   </tr>
 </table>
