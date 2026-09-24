@@ -1,0 +1,89 @@
+1. An examiner finds evidence in an application history, operating-system logs, file-system metadata, raw disk sectors, and memory. What principle does this best illustrate?
+a) Every user action is stored identically in all locations
+*b) User actions can create artifacts across multiple computer-system layers
+c) Only raw disk sectors provide reliable forensic evidence
+d) Application artifacts remain independent of operating-system activity
+
+2. A suspicious executable exists on disk, but an examiner needs to determine whether it was running when memory was captured. Which distinction is most relevant?
+a) A thread is stored code, while a program is an execution path
+b) A process is stored code, while a program is loaded into memory
+*c) A program is code stored on disk, while a process is a running instance in memory
+d) A process is a disk partition, while a program is a file system
+
+3. Investigators observe one application name associated with several PIDs in Task Manager. What is the best interpretation?
+a) The disk must contain several operating systems
+*b) One application can create multiple processes
+c) Every PID represents a separate user account
+d) Each PID identifies a different physical processor
+
+4. Which task is an example of dynamic analysis as presented in the chapter?
+a) Examining malware bytes stored in a file
+b) Calculating a partition's capacity from its sector count
+c) Reading program code without executing it
+*d) Examining processes, PIDs, and runtime state
+
+5. Why must a forensic examiner often correlate evidence from multiple sources?
+a) All devices use the same operating system and data formats
+b) A single artifact always explains the complete sequence of events
+*c) Evidence sets are large and heterogeneous, and computing environments vary
+d) Legal knowledge eliminates the need for technical analysis
+
+6. A disk exposes 512-byte logical sectors, while its file system allocates space in clusters. Which statement is correct?
+a) A sector always contains several clusters
+*b) A cluster consists of one or more sectors
+c) A cluster is the disk's partition table
+d) A sector is a running instance of a program
+
+7. A drive reports 17,000 cylinders, 12 heads, and 400 sectors per track. How many total sectors does the CHS calculation produce?
+a) 6,800,000
+b) 68,000,000
+*c) 81,600,000
+d) 97,920,000
+
+8. A storage region contains 81,600,000 sectors of 512 bytes each. Approximately how should its capacity be reported using binary and decimal units?
+a) 38.91 GB and 41.78 GiB
+*b) 38.91 GiB and 41.78 GB
+c) 41.78 GiB and 81.60 GB
+d) 81.60 GiB and 512 GB
+
+9. What information does a partition table provide to an examiner?
+a) The PIDs and threads currently executing in memory
+b) The configured firmware boot order only
+*c) Where disk regions start and end and what file systems they use
+d) The contents of every application log on the disk
+
+10. In the legacy BIOS boot sequence, what happens immediately after the BIOS reads the MBR from sector 0?
+a) The operating system takes control before any boot loader runs
+b) The GPT backup header selects the active user account
+*c) MBR code reads the partition table and transfers control to the active partition's boot record
+d) The firmware loads every application process into memory
+
+11. Which pairing most accurately reflects the two boot approaches described in the chapter?
+a) Legacy BIOS with GPT, and UEFI with CHS
+b) Legacy BIOS with LBA, and UEFI with MBR only
+c) Legacy BIOS with clusters, and UEFI with sectors
+*d) Legacy BIOS usually with MBR, and UEFI usually with GPT
+
+12. In an MBR, the first partition's starting-sector field contains 0x00000800. What is its starting LBA in decimal?
+a) 512
+b) 1,024
+*c) 2,048
+d) 4,096
+
+13. Why is an MBR disk using 512-byte sectors limited to about 2 TiB?
+a) MBR stores only one partition entry
+*b) MBR uses 32-bit LBA fields
+c) MBR requires every partition to begin at sector 0
+d) MBR stores its backup header at the end of the disk
+
+14. An examiner locates the primary GPT partition-entry array at LBA 2 on a disk with 512-byte sectors. At what byte offset does the array begin?
+a) 0x100
+b) 0x200
+*c) 0x400
+d) 0x800
+
+15. A GPT partition starts at LBA 2,048 and ends at LBA 4,095 on a disk with 512-byte sectors. Which calculation gives the partition size?
+a) (4,095 − 2,048) × 512
+*b) (4,095 − 2,048 + 1) × 512
+c) (4,095 + 2,048) × 512
+d) (4,095 − 2,048 + 1) ÷ 512
